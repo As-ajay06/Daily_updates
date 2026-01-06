@@ -14,3 +14,8 @@ i will add my daily vlog, what did today , learned today.
 1. Fix the error because downling file were taking temp storage it was previously 4. Which was causing error.
 2. Changed the size of tempoarory file on my fedora linux. 
 3. completed dbms for semester exam.
+
+### Date : jan 6
+1. create a RAG retrieval system from scratch. and i will create a youtube video on this.
+2. it was my birthday , i cried in noon. Remembering meri mummy.
+3. made last months expence list.
