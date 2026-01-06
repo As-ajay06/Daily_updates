@@ -10,3 +10,7 @@ i will add my daily vlog, what did today , learned today.
 3. I need to create a short on git reset --hard command which , just made me rewrtie the code, pople should know the consequeses of using this line.
 ### Date : jan 4 
 1. didn' t accomplish anything.
+### Date : jan 5
+1. Fix the error because downling file were taking temp storage it was previously 4. Which was causing error.
+2. Changed the size of tempoarory file on my fedora linux. 
+3. completed dbms for semester exam.
