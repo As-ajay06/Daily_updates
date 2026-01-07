@@ -19,3 +19,6 @@ i will add my daily vlog, what did today , learned today.
 1. create a RAG retrieval system from scratch. and i will create a youtube video on this.
 2. it was my birthday , i cried in noon. Remembering meri mummy.
 3. made last months expence list.
+### Date : jan 7
+1. Created rag full.
+2. undertood how it works.
