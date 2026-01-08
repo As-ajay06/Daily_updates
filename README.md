@@ -22,3 +22,7 @@ i will add my daily vlog, what did today , learned today.
 ### Date : jan 7
 1. Created rag full.
 2. undertood how it works.
+
+### Date : jan 8 
+1. started learning os
+2. solve the conflit of rebaseing and merging.
