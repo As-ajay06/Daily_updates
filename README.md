@@ -26,3 +26,7 @@ i will add my daily vlog, what did today , learned today.
 ### Date : jan 8 
 1. started learning os
 2. solve the conflit of rebaseing and merging.
+### Date : jan 9
+1. programmed more than usual
+2. completed day 2 using ai and also take a look on mt diet.
+3. will do more coding today than usual
