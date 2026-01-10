@@ -30,3 +30,7 @@ i will add my daily vlog, what did today , learned today.
 1. programmed more than usual
 2. completed day 2 using ai and also take a look on mt diet.
 3. will do more coding today than usual
+### Date : jan 10
+1. There was problem in prisma client and backned folder of saas project , it took me whole day. LLM helps me solve the issue fast.
+2. Revised Database and also did exercise.
+3. Thinking of contributing to open source for gsoc. Am I late ? god knows. This was the day i am wrapping up.
