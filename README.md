@@ -34,3 +34,7 @@ i will add my daily vlog, what did today , learned today.
 1. There was problem in prisma client and backned folder of saas project , it took me whole day. LLM helps me solve the issue fast.
 2. Revised Database and also did exercise.
 3. Thinking of contributing to open source for gsoc. Am I late ? god knows. This was the day i am wrapping up.
+### Date : jan 11
+1. Spend whole day to remove the error and solve at this time of commiting with version >7.0.0 prisma is kind of torrible to handle, but i was able to solve the error and applicaiton works just fine , i will spend more time correcting the small bugs.
+2. I created a git video and uploaded on the youtube. Now i am starting a new github video seires.
+3. Went to park near Rajiv Gandhi bus stop with friend and spen more than 3 dollar. Than again started to fix this prisma bug. I will push the correct version of code now.
