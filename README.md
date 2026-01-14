@@ -42,4 +42,7 @@ i will add my daily vlog, what did today , learned today.
 1. finished deep learning , one short. Nothing else, it took me one day to finish one short . It makes me laugh
 ### Date : jan 13
 did noting | wasted 
+### Date : jan 14
+1. So studied Operating system , very cool concepts are there regaring processes , it was more cool about page creation.
+
 
