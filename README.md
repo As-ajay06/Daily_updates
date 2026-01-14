@@ -40,3 +40,6 @@ i will add my daily vlog, what did today , learned today.
 3. Went to park near Rajiv Gandhi bus stop with friend and spen more than 3 dollar. Than again started to fix this prisma bug. I will push the correct version of code now.
 ### Date : jan 12
 1. finished deep learning , one short. Nothing else, it took me one day to finish one short . It makes me laugh
+### Date : jan 13
+did noting | wasted 
+
