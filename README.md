@@ -44,5 +44,10 @@ i will add my daily vlog, what did today , learned today.
 did noting | wasted 
 ### Date : jan 14
 1. So studied Operating system , very cool concepts are there regaring processes , it was more cool about page creation.
+### Date : jan 15 
+1. It was exam day , didn't did anything extra
+### Date : jan 16
+1. Spend half of the day exploring webpack and github. and nothing contributed , just spent time there.
+   
 
 
