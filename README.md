@@ -48,6 +48,9 @@ did noting | wasted
 1. It was exam day , didn't did anything extra
 ### Date : jan 16
 1. Spend half of the day exploring webpack and github. and nothing contributed , just spent time there.
+## Date : jan 17 
+1. watched the road map to become expert in DSA in 3 months.will appply this
+2. studied dbms.
    
 
 
