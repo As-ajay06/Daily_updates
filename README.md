@@ -51,6 +51,7 @@ did noting | wasted
 ## Date : jan 17 
 1. watched the road map to become expert in DSA in 3 months.will appply this
 2. studied dbms.
-   
+# Date : jan 18
+1. studied DBMS that's it. And solved previous year question paper.
 
 
