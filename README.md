@@ -53,5 +53,7 @@ did noting | wasted
 2. studied dbms.
 ### Date : jan 18
 1. studied DBMS that's it. And solved previous year question paper.
+### Date : jan 19
+1. Gived exam , and coded a little bit on extention. How to bulild it.
 
 
