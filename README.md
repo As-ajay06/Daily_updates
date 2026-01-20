@@ -55,5 +55,7 @@ did noting | wasted
 1. studied DBMS that's it. And solved previous year question paper.
 ### Date : jan 19
 1. Gived exam , and coded a little bit on extention. How to bulild it.
+### Date : jan 20
+1. Completed chrome extension understand the manifest file and also started learning DSA will solve good numbers of problem daily.
 
 
