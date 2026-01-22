@@ -57,5 +57,10 @@ did noting | wasted
 1. Gived exam , and coded a little bit on extention. How to bulild it.
 ### Date : jan 20
 1. Completed chrome extension understand the manifest file and also started learning DSA will solve good numbers of problem daily.
+### Date : jan 21
+1. Studied for exam did'nt did anything extra and , kind of not doing anything extra.
+### Date : jan 22 
+1. Gived the exam and trying to learn vim , for speeding in programing. Exam was good and than i had headace. So i was resting a while.
+2. The headace was not gone, so i started tesing what happens if i try to learn something during headace ? will it reduce my headace or remains same or increase headace or decrease headace.
 
 
