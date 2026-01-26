@@ -62,5 +62,12 @@ did noting | wasted
 ### Date : jan 22 
 1. Gived the exam and trying to learn vim , for speeding in programing. Exam was good and than i had headace. So i was resting a while.
 2. The headace was not gone, so i started tesing what happens if i try to learn something during headace ? will it reduce my headace or remains same or increase headace or decrease headace.
-
+### Date : jan 23 
+1. Solved a DSA problem in leet code , but this is not enough i need to solve more than 10 problems a day. And Did'nt do anything and i am loosign to update the this repo.
+### DAte : jan 24
+1. Did'nt did anything here also watched stock classes
+### Date : jan 25
+1. Was in a hackathon, created Educational platform called epathsala. I willl refine it and add it to my portfolio.
+### Date : jan 26
+1. Studing for shyllabus , that is exam .
 
