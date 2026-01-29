@@ -74,4 +74,6 @@ did noting | wasted
 1. Exam
 ### Date : jan 28
 1. solved longest panlindrome substring , on leetcode.
+### Date : jan 29
+1. solved longest panlidrome substring problem , with effectiveness
 
