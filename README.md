@@ -70,4 +70,8 @@ did noting | wasted
 1. Was in a hackathon, created Educational platform called epathsala. I willl refine it and add it to my portfolio.
 ### Date : jan 26
 1. Studing for shyllabus , that is exam .
+### Date : jan 27
+1. Exam
+### Date : jan 28
+1. solved longest panlindrome substring , on leetcode.
 
