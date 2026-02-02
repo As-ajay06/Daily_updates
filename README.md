@@ -78,6 +78,8 @@ did noting | wasted
 1. solved longest panlidrome substring problem , with effectiveness
 ### Date : jan 30
 1. solved spiral problems of leetcode. And given pratical of Operating system.
+### Date : jan 31
+1. After exam i was just sleeping and did nothing that day.
 ### Date : fed 1
 1. sovled my github issue , solved one dsa problem but didn'; made expense of this week.
 ### Date : feb 2
