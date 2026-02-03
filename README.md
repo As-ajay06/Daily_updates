@@ -84,4 +84,6 @@ did noting | wasted
 1. sovled my github issue , solved one dsa problem but didn'; made expense of this week.
 ### Date : feb 2
 1. learned hashing which is unordered list in cpp , and concept . Did DBMS revision and watched films and reel . I should avoid reel.
+### Date : feb 3
+1. Headache. Not doing anything. Trying to config vim editor and also , i will create a video on vim . That will be benfecial
 
