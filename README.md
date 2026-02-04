@@ -86,4 +86,6 @@ did noting | wasted
 1. learned hashing which is unordered list in cpp , and concept . Did DBMS revision and watched films and reel . I should avoid reel.
 ### Date : feb 3
 1. Headache. Not doing anything. Trying to config vim editor and also , i will create a video on vim . That will be benfecial
+### Date : feb 4
+1. Added vim config and installed vim . Now i need to use more vim and learn more commands
 
