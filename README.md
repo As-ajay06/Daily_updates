@@ -89,5 +89,7 @@ did noting | wasted
 ### Date : feb 4
 1. Added vim config and installed vim . Now i need to use more vim and learn more commands
 ### Date : feb 5
-1. watched 8 lecture of math and watched 6 7 lecture of nnfs also created a program . But did'nt study DSA. 
+1. watched 8 lecture of math and watched 6 7 lecture of nnfs also created a program . But did'nt study DSA.
+### Date : feb 6
+1. solved one DSA problem, watched maths lecture and also look at the aitr code.
 
